@@ -1,1 +1,26 @@
+# Virtual environment
+venv/
 .env/
+
+# Python
+*.pyc
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.h5
+*.hdf5
+*.json
+
+# Model files
+*.pkl
+*.joblib
+
+# Logs
+*.log
+
+# Config files
+.DS_Store
